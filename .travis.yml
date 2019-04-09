@@ -76,3 +76,4 @@ script:
 # use this to disable email notifications (e.g. while testing configuration)
 #notifications:
 #email: false
+
